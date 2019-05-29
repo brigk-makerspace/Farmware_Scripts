@@ -5,12 +5,12 @@
 A simple Farmware example that tells FarmBot to log a new message.
 '''
 
-from farmware_tools import app
+from farmware_tools import device
 
-#app.log(message='Hello Farmware!', message_type='success')
+device.log(message='Hello Farmware!', message_type='success')
 
 #plants = app.get_plants()
 
-new_plant = app.add_plant(x=100, y=200)
+new_plant = device.add_plant(x=100, y=200)
 
 
