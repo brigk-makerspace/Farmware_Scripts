@@ -8,5 +8,5 @@
  "url": "https://raw.githubusercontent.com/brigk-makerspace/Farmware_Scripts/master/manifest.json",
  "zip": "https://github.com/brigk-makerspace/Farmware_Scripts/archive/master.zip",
  "executable": "python",
- "args": ["Farmware_Scripts-master/hello.py"]
+ "args": ["Farmware_Scripts-master/Example_Farmware/hello.py"]
 }
