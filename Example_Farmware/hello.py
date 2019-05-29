@@ -11,6 +11,6 @@ from farmware_tools import app
 
 #plants = app.get_plants()
 
-new_plant = app.add_plant(x=100, y=200, name="Test")
+new_plant = app.add_plant(x=100, y=200)
 
 
