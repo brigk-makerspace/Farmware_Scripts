@@ -1,0 +1,12 @@
+{
+ "package": "Hello Farmware",
+ "language": "python",
+ "author": "Brigk Makerspace Ingolstadt",
+ "description": "First approach to control Farmbot",
+ "version": "0.0.1",
+ "min_os_version_major": 6,
+ "url": "https://raw.githubusercontent.com/FarmBot-Labs/hello-farmware/master/manifest.json",
+ "zip": "https://github.com/FarmBot-Labs/hello-farmware/archive/master.zip",
+ "executable": "python",
+ "args": ["hello-farmware-master/hello.py"]
+}
