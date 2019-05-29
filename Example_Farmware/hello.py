@@ -11,6 +11,6 @@ device.log(message='Hello Farmware!', message_type='success')
 
 #plants = app.get_plants()
 
-new_plant = device.add_plant(x=100, y=200)
+#new_plant = device.add_plant(x=100, y=200)
 
 
